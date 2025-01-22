@@ -29,7 +29,7 @@ const Label1 = () => {
 
   return (
     <div className="bg-white p-3 w-1/2 shadow-black rounded max-md:w-full">
-      <h1 className="text-3xl font-bold">Label1</h1>
+      <h1 className="text-3xl font-bold">Label2</h1>
 
       <Select
         placeholder="select options..."
