@@ -1,0 +1,44 @@
+.dropdown {
+  border: 1px solid #ccc;
+  width: 200px;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.dropdown-menu {
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.dropdown-item {
+  padding: 8px;
+  cursor: pointer;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.dropdown-item:hover {
+  background-color: #f9f9f9;
+}
+
+.new-option-input {
+  width: 70%;
+  margin-right: 5px;
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 3px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.selected {
+  background-color: #d3f9d8;
+}
